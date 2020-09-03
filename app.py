@@ -5,6 +5,12 @@ import re
 
 app = Flask(__name__)
 
+# to run in terminal:
+# export FLASK_APP=hello_flask
+# python -m flask run --host=0.0.0.0
+# or
+# flask run --host=0.0.0.0
+
 
 @app.route("/")
 def home():
