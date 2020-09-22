@@ -3,8 +3,6 @@ FROM python:3.8-slim-buster
 
 EXPOSE 5000
 
-ENV VAR1=10
-
 # Keeps Python from generating .pyc files in the container
 ENV PYTHONDONTWRITEBYTECODE 1
 
@@ -23,4 +21,4 @@ RUN useradd appuser && chown -R appuser /app
 USER appuser
 
 # During debugging, this entry point will be overridden. For more information, please refer to https://aka.ms/vscode-docker-python-debug
-CMD ["gunicorn", "--bind", "0.0.0.0:5000", "hello_app.webapp:app"]
+CMD ["gunicorn", "--bind", "0.0.0.0:5000", "hello_app.views:app"]
