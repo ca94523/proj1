@@ -1,0 +1,34 @@
+instruction RestRServe
+
+source:
+https://hub.docker.com/r/rexyai/restrserve
+https://restrserve.org/articles/RestRserve.html
+https://github.com/rexyai/RestRserve/tree/master/inst/examples
+
+test RestRServe docker:
+1. docker pull rexyai/restrserve
+2. docker run --rm -p 8080:8080 rexyai/restrserve --name rrs
+by default it run hello world example
+3. if you want to look inside the docker:
+docker exec -it rrs  /bin/bash
+4. list of examples inside docker:
+cd /usr/local/lib/R/site-library/RestRserve/examples/hello/
+
+
+create custom docker:
+1. create new dockerfile
+-------------------------------
+FROM rexyai/restrserve
+CMD ["Rscript", "app.R"]
+-------------------------------
+2. build docker
+docker build -t docker_rrs .
+
+3. run docker
+docker run --rm -p 8080:8080 -v $(pwd)/app.R:/app.R docker_rrs
+
+4. go to http://localhost:8080/hello
+
+5. benchmarking
+ab -c 100 -n 100 localhost:8080/hello
+
