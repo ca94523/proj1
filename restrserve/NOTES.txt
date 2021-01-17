@@ -1,0 +1,36 @@
+set path=%path%;C:\Users\andre.kristanto\Documents\R\R-4.0.3\bin\x64
+set path=%path%;C:\Users\andre.kristanto\Downloads\httpd-2.4.46-win64-VS16\Apache24\bin
+
+setx path "%path%;C:\Users\andre.kristanto\Documents\R\R-4.0.3\bin\x64"
+rscript -e "install.packages('RestRserve',repos='https://cran.rstudio.com/')"
+
+rscript controller.R
+rscript -e "plumber::plumb('plumber_latest_150121.R')$run(port=8000)"
+
+
+ab -p Input_SLIK.txt -T application/json -n 1000 -c 10 http://localhost:8080/slik
+ab -n 10 -c 2 http://google.com/
+
+
+JC CUG 515630
+
+svpn.ocbcnisp.com:4444
+
+\\fs-ont\RiskModel-Share$
+
+git remote add origin https://github.com/ca94523/dropbox
+git add <filename>
+git commit -a -m "message"
+git push -u origin master
+
+-thunderbird DONE
+outlook
+laptop folder
+shared folder
+hardcopy (prepayment paper)
+
+Sunil IP phone: 83-801-1896
+
+https://svpn.ocbcnisp.com:4446/ 
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org zeep

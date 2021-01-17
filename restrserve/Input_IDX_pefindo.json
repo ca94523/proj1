@@ -1,0 +1,2920 @@
+{
+  "CIP": {
+    "RecordList": {
+      "Record": [
+        {
+          "Date": "10/1/18 12:00:00 AM",
+          "Grade": "C1",
+          "ProbabilityOfDefault": "3.70",
+          "ReasonsList": {
+            "Reason": {
+              "Code": "NQS2",
+              "Description": "3 or more subscribers have recently requested reports on subject"
+            }
+          },
+          "Score": "671",
+          "Trend": "NoChange"
+        },
+        {
+          "Date": "9/30/18 12:00:00 AM",
+          "Grade": "C1",
+          "ProbabilityOfDefault": "3.70",
+          "ReasonsList": {
+            "Reason": {
+              "Code": "NQS2",
+              "Description": {}
+            }
+          },
+          "Score": "671",
+          "Trend": "Up"
+        },
+        {
+          "Date": "8/31/18 12:00:00 AM",
+          "Grade": "C2",
+          "ProbabilityOfDefault": "4.83",
+          "ReasonsList": {
+            "Reason": {
+              "Code": "NQS1",
+              "Description": {}
+            }
+          },
+          "Score": "659",
+          "Trend": "Down"
+        },
+        {
+          "Date": "7/31/18 12:00:00 AM",
+          "Grade": "C2",
+          "ProbabilityOfDefault": "4.52",
+          "ReasonsList": {
+            "Reason": [
+              {
+                "Code": "NQS2",
+                "Description": null
+              },
+              {
+                "Code": "NBC3",
+                "Description": null
+              }
+            ]
+          },
+          "Score": "662",
+          "Trend": "Up"
+        },
+        {
+          "Date": "6/30/18 12:00:00 AM",
+          "Grade": "C3",
+          "ProbabilityOfDefault": "5.63",
+          "ReasonsList": {
+            "Reason": [
+              {
+                "Code": "NQS1",
+                "Description": null
+              },
+              {
+                "Code": "NBC3",
+                "Description": null
+              }
+            ]
+          },
+          "Score": "652",
+          "Trend": "NoChange"
+        },
+        {
+          "Date": "5/31/18 12:00:00 AM",
+          "Grade": "C3",
+          "ProbabilityOfDefault": "5.63",
+          "ReasonsList": {
+            "Reason": [
+              {
+                "Code": "NQS1",
+                "Description": null
+              },
+              {
+                "Code": "NBC3",
+                "Description": null
+              }
+            ]
+          },
+          "Score": "652",
+          "Trend": "Down"
+        },
+        {
+          "Date": "4/30/18 12:00:00 AM",
+          "Grade": "B3",
+          "ProbabilityOfDefault": "2.77",
+          "ReasonsList": {
+            "Reason": {
+              "Code": "NBC3",
+              "Description": {}
+            }
+          },
+          "Score": "684",
+          "Trend": "Up"
+        },
+        {
+          "Date": "3/31/18 12:00:00 AM",
+          "Grade": "B3",
+          "ProbabilityOfDefault": "2.83",
+          "ReasonsList": {
+            "Reason": {
+              "Code": "NBC3",
+              "Description": {}
+            }
+          },
+          "Score": "683",
+          "Trend": "Up"
+        },
+        {
+          "Date": "2/28/18 12:00:00 AM",
+          "Grade": "C1",
+          "ProbabilityOfDefault": "3.31",
+          "ReasonsList": {
+            "Reason": {
+              "Code": "NBC3",
+              "Description": {}
+            }
+          },
+          "Score": "676",
+          "Trend": "Up"
+        },
+        {
+          "Date": "1/31/18 12:00:00 AM",
+          "Grade": "C2",
+          "ProbabilityOfDefault": "5.27",
+          "ReasonsList": {
+            "Reason": [
+              {
+                "Code": "NBC2",
+                "Description": null
+              },
+              {
+                "Code": "RCU1",
+                "Description": null
+              }
+            ]
+          },
+          "Score": "655",
+          "Trend": "Up"
+        },
+        {
+          "Date": "12/31/17 12:00:00 AM",
+          "Grade": "C3",
+          "ProbabilityOfDefault": "6.28",
+          "ReasonsList": {
+            "Reason": [
+              {
+                "Code": "NBC2",
+                "Description": null
+              },
+              {
+                "Code": "RCU1",
+                "Description": null
+              }
+            ]
+          },
+          "Score": "647",
+          "Trend": "Up"
+        },
+        {
+          "Date": "11/30/17 12:00:00 AM",
+          "Grade": "D1",
+          "ProbabilityOfDefault": "9.41",
+          "ReasonsList": {
+            "Reason": [
+              {
+                "Code": "NBC2",
+                "Description": null
+              },
+              {
+                "Code": "RCU1",
+                "Description": null
+              },
+              {
+                "Code": "NSL3",
+                "Description": null
+              }
+            ]
+          },
+          "Score": "628",
+          "Trend": "Up"
+        },
+        {
+          "Date": "10/31/17 12:00:00 AM",
+          "Grade": "D1",
+          "ProbabilityOfDefault": "10.88",
+          "ReasonsList": {
+            "Reason": [
+              {
+                "Code": "NSL2",
+                "Description": null
+              },
+              {
+                "Code": "NBC2",
+                "Description": null
+              },
+              {
+                "Code": "RCU1",
+                "Description": null
+              }
+            ]
+          },
+          "Score": "621",
+          "Trend": "Up"
+        }
+      ]
+    }
+  },
+  "CIQ": {
+    "Detail": {
+      "NumberOfCancelledClosedContracts": "0",
+      "NumberOfSubscribersMadeInquiriesLast14Days": "0",
+      "NumberOfSubscribersMadeInquiriesLast2Days": "0"
+    },
+    "Summary": {
+      "DateOfLastFraudRegistrationPrimarySubject": {},
+      "DateOfLastFraudRegistrationThirdParty": {},
+      "NumberOfFraudAlertsPrimarySubject": "0",
+      "NumberOfFraudAlertsThirdParty": "0"
+    }
+  },
+  "Collaterals": {},
+  "Company": {},
+  "ContractOverview": {
+    "ContractList": {
+      "Contract": [
+        {
+          "ContractStatus": "GrantedAndActivated",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "8390356.00",
+            "Value": "8390356.00"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0",
+          "PhaseOfContract": "Open",
+          "RoleOfClient": "MainDebtor",
+          "Sector": "Banks",
+          "StartDate": "11/30/16 12:00:00 AM",
+          "TotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "20000000.00",
+            "Value": "20000000.00"
+          },
+          "TypeOfContract": "CreditCard"
+        },
+        {
+          "ContractStatus": "GrantedAndActivated",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "338016662.54",
+            "Value": "338016662.54"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0",
+          "PhaseOfContract": "Open",
+          "RoleOfClient": "MainDebtor",
+          "Sector": "Banks",
+          "StartDate": "7/11/17 12:00:00 AM",
+          "TotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "350000000.00",
+            "Value": "350000000.00"
+          },
+          "TypeOfContract": "OtherWithLoanAgreement"
+        },
+        {
+          "ContractStatus": "GrantedAndActivated",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "13857281.48",
+            "Value": "13857281.48"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0",
+          "PhaseOfContract": "Open",
+          "RoleOfClient": "MainDebtor",
+          "Sector": "NonBankingFinancialInstitutions",
+          "StartDate": "4/11/17 12:00:00 AM",
+          "TotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "20000000.00",
+            "Value": "20000000.00"
+          },
+          "TypeOfContract": "OtherWithLoanAgreement"
+        },
+        {
+          "ContractStatus": "Settled",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0",
+          "PhaseOfContract": "Closed",
+          "RoleOfClient": "MainDebtor",
+          "Sector": "Pawnshop",
+          "StartDate": "5/11/17 12:00:00 AM",
+          "TotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "7000000.00",
+            "Value": "7000000.00"
+          },
+          "TypeOfContract": "ConsumerCredit"
+        }
+      ]
+    }
+  },
+  "Contracts": {
+    "ContractList": {
+      "Contract": [
+        {
+          "BankBeneficiary": null,
+          "Branch": null,
+          "CollateralsList": {
+            "Collateral": [
+              {
+                "AppraisalValue": {
+                  "Currency": "IDR",
+                  "LocalValue": "1000000.00",
+                  "Value": "1000000.00"
+                },
+                "BankValuationDate": "9/5/18 12:00:00 AM",
+                "BankValue": null,
+                "Branch": null,
+                "CollateralAcceptanceDate": "9/3/18 12:00:00 AM",
+                "CollateralAppraisalAuthority": "AA",
+                "CollateralCode": "COL20180928",
+                "CollateralDescription": null,
+                "CollateralOwnerName": "Abimanyu",
+                "CollateralRating": "AA",
+                "CollateralStatus": "Indent",
+                "CollateralType": "NonCashFixedAsset",
+                "CollateralValue": {
+                  "Currency": "IDR",
+                  "LocalValue": "10000000.00",
+                  "Value": "10000000.00"
+                },
+                "HasMultipleCollaterals": "No",
+                "Insurance": "Insured",
+                "IsShared": "No",
+                "MainAddressAddressLine": "Jalan Warung Buncit 2 Jakarta",
+                "MainAddressCity": null,
+                "MainAddressStreet": null,
+                "ProofOfOwnership": null,
+                "RatingAuthority": "Fitch",
+                "SecurityAssignmentType": "Mortgage",
+                "SharedPortion": null,
+                "ValuationDate": "9/12/18 12:00:00 AM"
+              },
+              {
+                "AppraisalValue": {
+                  "Currency": "IDR",
+                  "LocalValue": "10000000.00",
+                  "Value": "10000000.00"
+                },
+                "BankValuationDate": "9/25/18 12:00:00 AM",
+                "BankValue": null,
+                "Branch": null,
+                "CollateralAcceptanceDate": "9/18/18 12:00:00 AM",
+                "CollateralAppraisalAuthority": "A-",
+                "CollateralCode": "COL20180929",
+                "CollateralDescription": "Contoh kedua",
+                "CollateralOwnerName": "Didin",
+                "CollateralRating": "A-",
+                "CollateralStatus": "Available",
+                "CollateralType": "Inventory",
+                "CollateralValue": {
+                  "Currency": "IDR",
+                  "LocalValue": "15000000.00",
+                  "Value": "15000000.00"
+                },
+                "HasMultipleCollaterals": "No",
+                "Insurance": "Insured",
+                "IsShared": "No",
+                "MainAddressAddressLine": null,
+                "MainAddressCity": null,
+                "MainAddressStreet": null,
+                "ProofOfOwnership": null,
+                "RatingAuthority": "Pefindo",
+                "SecurityAssignmentType": "NotContracted",
+                "SharedPortion": "10.00",
+                "ValuationDate": "9/25/18 12:00:00 AM"
+              }
+            ]
+          },
+          "ConditionDate": null,
+          "ContractCode": "***4571",
+          "ContractCurrency": "IDR",
+          "ContractStatus": "GrantedAndActivated",
+          "ContractSubtype": "CreditCard",
+          "ContractType": "CreditCard",
+          "CreditCharacteristics": "Other",
+          "CreditClassification": "OtherMediumEnt",
+          "Creditor": "PT. Bank PBK Indonesia",
+          "CreditorType": "Banks",
+          "CreditUsageInLast30Days": null,
+          "DefaultDate": null,
+          "DefaultReason": "NotSpecified",
+          "DefaultReasonDescription": null,
+          "DelinquencyDate": "9/18/18 12:00:00 AM",
+          "Description": null,
+          "DisbursementDate": null,
+          "Disputes": {
+            "ClosedDisputes": "0",
+            "DisputeList": "",
+            "FalseDisputes": "0"
+          },
+          "EconomicSector": "ID_0000",
+          "GovernmentProgram": "NonGovernment",
+          "GuarantyDeposit": null,
+          "InitialAgreementDate": "11/30/16 12:00:00 AM",
+          "InitialAgreementNumber": "BY0978674571",
+          "InitialInterestRate": null,
+          "InitialInterestRateType": "NotSpecified",
+          "InitialRestructuringDate": "9/17/18 12:00:00 AM",
+          "InitialTotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "InterestArrears": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "InterestArrearsFrequency": null,
+          "LastAgreementDate": null,
+          "LastAgreementNumber": null,
+          "LastDelinquency90PlusDays": null,
+          "LastInterestRate": "2.590",
+          "LastInterestRateType": "Fixed",
+          "LastUpdate": "4/15/18 12:00:00 AM",
+          "MaturityDate": "11/30/20 12:00:00 AM",
+          "NameOfInsured": null,
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OrientationOfUse": "Other",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "8390356.00",
+            "Value": "8390356.00"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0",
+          "PastDueInterest": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PaymentCalendarList": {
+            "CalendarItem": [
+              {
+                "Date": "10/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "9/30/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "8/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "7/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "6/30/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "5/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "4/30/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": "2.590",
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "8390356.00",
+                  "Value": "8390356.00"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "3/31/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "8820729.88",
+                  "Value": "8820729.88"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "2/28/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "9242804.07",
+                  "Value": "9242804.07"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "1/31/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "9663126.91",
+                  "Value": "9663126.91"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "12/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "10081705.67",
+                  "Value": "10081705.67"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "11/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "10913659.88",
+                  "Value": "10913659.88"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "10/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "11327049.71",
+                  "Value": "11327049.71"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "9/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "12148690.56",
+                  "Value": "12148690.56"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "8/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "12556955.78",
+                  "Value": "12556955.78"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "7/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "12963526.95",
+                  "Value": "12963526.95"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "6/30/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "5/31/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "4/30/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "3/31/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "2/28/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "1/31/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "12/31/16 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "11/30/16 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              }
+            ]
+          },
+          "Penalty": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PhaseOfContract": "Open",
+          "PrincipalArrears": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PrincipalArrearsFrequency": "0",
+          "PrincipalBalance": {
+            "Currency": "IDR",
+            "LocalValue": "8390356.00",
+            "Value": "8390356.00"
+          },
+          "ProjectLocation": null,
+          "ProjectValue": null,
+          "ProlongationCounter": "20",
+          "PurposeOfFinancing": "Other",
+          "RealEndDate": null,
+          "RelatedSubjectsList": {
+            "RelatedSubject": {
+              "ExpectedEndDate": {},
+              "GuarancyDescription": {},
+              "GuaranteeAmount": {},
+              "JointAccountSequence": "1",
+              "Name": "Firman Hutapea",
+              "NationalID": "337020920090920001",
+              "PassportNumber": {},
+              "RealEndDate": {},
+              "RegistrationNumber": {},
+              "RoleOfClient": "Guarantor",
+              "StartDate": {},
+              "SubjectType": "Individual",
+              "TaxNumber": "1928301229310980"
+            }
+          },
+          "RestructuredCount": null,
+          "RestructuringDate": "9/24/18 12:00:00 AM",
+          "RestructuringReason": "ExtendingPeriod",
+          "RoleOfClient": "MainDebtor",
+          "StartDate": "11/30/16 12:00:00 AM",
+          "SyndicatedLoan": "No",
+          "TotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "20000000.00",
+            "Value": "20000000.00"
+          },
+          "TotalFacilityAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "TotalTakenAmount": {
+            "Currency": "IDR",
+            "LocalValue": "20000000.00",
+            "Value": "20000000.00"
+          },
+          "WorstPastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "WorstPastDueDays": "0"
+        },
+        {
+          "BankBeneficiary": null,
+          "Branch": null,
+          "CollateralsList": "",
+          "ConditionDate": null,
+          "ContractCode": "XXI123222169",
+          "ContractCurrency": "IDR",
+          "ContractStatus": "GrantedAndActivated",
+          "ContractSubtype": "NotSpecified",
+          "ContractType": "OtherWithLoanAgreement",
+          "CreditCharacteristics": "NotSpecified",
+          "CreditClassification": "NotSpecified",
+          "Creditor": "PT. Bank Gringotts Indonesia",
+          "CreditorType": "Banks",
+          "CreditUsageInLast30Days": null,
+          "DefaultDate": null,
+          "DefaultReason": "NotSpecified",
+          "DefaultReasonDescription": null,
+          "DelinquencyDate": null,
+          "Description": null,
+          "DisbursementDate": "7/11/17 12:00:00 AM",
+          "Disputes": {
+            "ClosedDisputes": "0",
+            "DisputeList": "",
+            "FalseDisputes": "0"
+          },
+          "EconomicSector": "ID_0000",
+          "GovernmentProgram": "NotSpecified",
+          "GuarantyDeposit": null,
+          "InitialAgreementDate": "7/11/17 12:00:00 AM",
+          "InitialAgreementNumber": "XXI123222169",
+          "InitialInterestRate": null,
+          "InitialInterestRateType": "NotSpecified",
+          "InitialRestructuringDate": null,
+          "InitialTotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "350000000.00",
+            "Value": "350000000.00"
+          },
+          "InterestArrears": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "InterestArrearsFrequency": null,
+          "LastAgreementDate": null,
+          "LastAgreementNumber": null,
+          "LastDelinquency90PlusDays": null,
+          "LastInterestRate": null,
+          "LastInterestRateType": "NotSpecified",
+          "LastUpdate": "4/30/18 12:00:00 AM",
+          "MaturityDate": "7/11/32 12:00:00 AM",
+          "NameOfInsured": null,
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OrientationOfUse": "NotSpecified",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "338016662.54",
+            "Value": "338016662.54"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0",
+          "PastDueInterest": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PaymentCalendarList": {
+            "CalendarItem": [
+              {
+                "Date": "10/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "9/30/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "8/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "7/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "6/30/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "5/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "4/30/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "338016662.54",
+                  "Value": "338016662.54"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "3/31/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "339370396.91",
+                  "Value": "339370396.91"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "2/28/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "340718514.12",
+                  "Value": "340718514.12"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "1/31/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "342061037.49",
+                  "Value": "342061037.49"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "12/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "343397990.22",
+                  "Value": "343397990.22"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "11/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "344729395.43",
+                  "Value": "344729395.43"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "10/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "346055276.14",
+                  "Value": "346055276.14"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "9/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "347375655.27",
+                  "Value": "347375655.27"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "8/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "348690555.64",
+                  "Value": "348690555.64"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "7/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "350000000.00",
+                  "Value": "350000000.00"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "6/30/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "5/31/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "4/30/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "3/31/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "2/28/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "1/31/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "12/31/16 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "11/30/16 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              }
+            ]
+          },
+          "Penalty": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PhaseOfContract": "Open",
+          "PrincipalArrears": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PrincipalArrearsFrequency": "0",
+          "PrincipalBalance": {
+            "Currency": "IDR",
+            "LocalValue": "338016662.54",
+            "Value": "338016662.54"
+          },
+          "ProjectLocation": null,
+          "ProjectValue": null,
+          "ProlongationCounter": null,
+          "PurposeOfFinancing": "MortgageAbove70SQM",
+          "RealEndDate": null,
+          "RelatedSubjectsList": "",
+          "RestructuredCount": null,
+          "RestructuringDate": null,
+          "RestructuringReason": "NotSpecified",
+          "RoleOfClient": "MainDebtor",
+          "StartDate": "7/11/17 12:00:00 AM",
+          "SyndicatedLoan": "No",
+          "TotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "350000000.00",
+            "Value": "350000000.00"
+          },
+          "TotalFacilityAmount": {
+            "Currency": "IDR",
+            "LocalValue": "350000000.00",
+            "Value": "350000000.00"
+          },
+          "TotalTakenAmount": {
+            "Currency": "IDR",
+            "LocalValue": "350000000.00",
+            "Value": "350000000.00"
+          },
+          "WorstPastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "WorstPastDueDays": "0"
+        },
+        {
+          "BankBeneficiary": null,
+          "Branch": null,
+          "CollateralsList": "",
+          "ConditionDate": null,
+          "ContractCode": "01PYR01273BB",
+          "ContractCurrency": "IDR",
+          "ContractStatus": "GrantedAndActivated",
+          "ContractSubtype": "NotSpecified",
+          "ContractType": "OtherWithLoanAgreement",
+          "CreditCharacteristics": "NotSpecified",
+          "CreditClassification": "NotSpecified",
+          "Creditor": "PT. Weasley Finance Indonesia",
+          "CreditorType": "NonBankingFinancialInstitutions",
+          "CreditUsageInLast30Days": null,
+          "DefaultDate": null,
+          "DefaultReason": "NotSpecified",
+          "DefaultReasonDescription": null,
+          "DelinquencyDate": null,
+          "Description": null,
+          "DisbursementDate": "4/11/17 12:00:00 AM",
+          "Disputes": {
+            "ClosedDisputes": "0",
+            "DisputeList": "",
+            "FalseDisputes": "0"
+          },
+          "EconomicSector": "ID_9963",
+          "GovernmentProgram": "NotSpecified",
+          "GuarantyDeposit": null,
+          "InitialAgreementDate": "4/11/17 12:00:00 AM",
+          "InitialAgreementNumber": "01PYR01273BB",
+          "InitialInterestRate": null,
+          "InitialInterestRateType": "NotSpecified",
+          "InitialRestructuringDate": null,
+          "InitialTotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "20000000.00",
+            "Value": "20000000.00"
+          },
+          "InterestArrears": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "InterestArrearsFrequency": null,
+          "LastAgreementDate": null,
+          "LastAgreementNumber": null,
+          "LastDelinquency90PlusDays": null,
+          "LastInterestRate": null,
+          "LastInterestRateType": "NotSpecified",
+          "LastUpdate": "4/30/18 12:00:00 AM",
+          "MaturityDate": "4/11/20 12:00:00 AM",
+          "NameOfInsured": null,
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OrientationOfUse": "NotSpecified",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "13857281.48",
+            "Value": "13857281.48"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0",
+          "PastDueInterest": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PaymentCalendarList": {
+            "CalendarItem": [
+              {
+                "Date": "10/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "9/30/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "8/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "7/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "6/30/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "5/31/18 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "4/30/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "13857281.48",
+                  "Value": "13857281.48"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "3/31/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "14388088.20",
+                  "Value": "14388088.20"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "2/28/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "14915379.65",
+                  "Value": "14915379.65"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "1/31/18 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "15439179.10",
+                  "Value": "15439179.10"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "12/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "15959509.68",
+                  "Value": "15959509.68"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "11/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "16476394.36",
+                  "Value": "16476394.36"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "10/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "16989855.96",
+                  "Value": "16989855.96"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "9/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "17499917.16",
+                  "Value": "17499917.16"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "8/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "18006600.47",
+                  "Value": "18006600.47"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "7/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "18509928.26",
+                  "Value": "18509928.26"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "6/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "19009922.75",
+                  "Value": "19009922.75"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "5/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "19506606.02",
+                  "Value": "19506606.02"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "4/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "20000000.00",
+                  "Value": "20000000.00"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "3/31/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "2/28/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "1/31/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "12/31/16 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "11/30/16 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              }
+            ]
+          },
+          "Penalty": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PhaseOfContract": "Open",
+          "PrincipalArrears": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PrincipalArrearsFrequency": "0",
+          "PrincipalBalance": {
+            "Currency": "IDR",
+            "LocalValue": "13857281.48",
+            "Value": "13857281.48"
+          },
+          "ProjectLocation": null,
+          "ProjectValue": null,
+          "ProlongationCounter": null,
+          "PurposeOfFinancing": "OtherConsumerCredit",
+          "RealEndDate": null,
+          "RelatedSubjectsList": "",
+          "RestructuredCount": null,
+          "RestructuringDate": null,
+          "RestructuringReason": "NotSpecified",
+          "RoleOfClient": "MainDebtor",
+          "StartDate": "4/11/17 12:00:00 AM",
+          "SyndicatedLoan": "No",
+          "TotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "20000000.00",
+            "Value": "20000000.00"
+          },
+          "TotalFacilityAmount": {
+            "Currency": "IDR",
+            "LocalValue": "20000000.00",
+            "Value": "20000000.00"
+          },
+          "TotalTakenAmount": {
+            "Currency": "IDR",
+            "LocalValue": "20000000.00",
+            "Value": "20000000.00"
+          },
+          "WorstPastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "WorstPastDueDays": "0"
+        },
+        {
+          "BankBeneficiary": null,
+          "Branch": null,
+          "CollateralsList": "",
+          "ConditionDate": null,
+          "ContractCode": "SYA43289700",
+          "ContractCurrency": "IDR",
+          "ContractStatus": "Settled",
+          "ContractSubtype": "NotSpecified",
+          "ContractType": "ConsumerCredit",
+          "CreditCharacteristics": "NotSpecified",
+          "CreditClassification": "NotSpecified",
+          "Creditor": "PT. Gadai OK Indonesia",
+          "CreditorType": "Pawnshop",
+          "CreditUsageInLast30Days": null,
+          "DefaultDate": null,
+          "DefaultReason": "NotSpecified",
+          "DefaultReasonDescription": null,
+          "DelinquencyDate": null,
+          "Description": null,
+          "DisbursementDate": "5/11/17 12:00:00 AM",
+          "Disputes": {
+            "ClosedDisputes": "0",
+            "DisputeList": "",
+            "FalseDisputes": "0"
+          },
+          "EconomicSector": "ID_0000",
+          "GovernmentProgram": "NotSpecified",
+          "GuarantyDeposit": null,
+          "InitialAgreementDate": "5/11/17 12:00:00 AM",
+          "InitialAgreementNumber": "SYA43289700",
+          "InitialInterestRate": null,
+          "InitialInterestRateType": "NotSpecified",
+          "InitialRestructuringDate": null,
+          "InitialTotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "7000000.00",
+            "Value": "7000000.00"
+          },
+          "InterestArrears": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "InterestArrearsFrequency": null,
+          "LastAgreementDate": null,
+          "LastAgreementNumber": null,
+          "LastDelinquency90PlusDays": null,
+          "LastInterestRate": null,
+          "LastInterestRateType": "NotSpecified",
+          "LastUpdate": "11/30/17 12:00:00 AM",
+          "MaturityDate": "11/11/17 12:00:00 AM",
+          "NameOfInsured": null,
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OrientationOfUse": "NotSpecified",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0",
+          "PastDueInterest": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PaymentCalendarList": {
+            "CalendarItem": [
+              {
+                "Date": "11/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "10/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "1191004.71",
+                  "Value": "1191004.71"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "9/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "2372166.42",
+                  "Value": "2372166.42"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "8/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "3543566.46",
+                  "Value": "3543566.46"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "7/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "4705285.51",
+                  "Value": "4705285.51"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "6/30/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "5857403.57",
+                  "Value": "5857403.57"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "5/31/17 12:00:00 AM",
+                "DelinquencyStatus": "Ok",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NoNegativeStatus",
+                "OutstandingAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "7000000.00",
+                  "Value": "7000000.00"
+                },
+                "PastDueAmount": {
+                  "Currency": "IDR",
+                  "LocalValue": "0.00",
+                  "Value": "0.00"
+                },
+                "PastDueDays": "0"
+              },
+              {
+                "Date": "4/30/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "3/31/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "2/28/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "1/31/17 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              },
+              {
+                "Date": "12/31/16 12:00:00 AM",
+                "DelinquencyStatus": "NotAvailable",
+                "InterestRate": null,
+                "NegativeStatusOfContract": "NotSpecified",
+                "OutstandingAmount": null,
+                "PastDueAmount": null,
+                "PastDueDays": null
+              }
+            ]
+          },
+          "Penalty": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PhaseOfContract": "Closed",
+          "PrincipalArrears": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PrincipalArrearsFrequency": "0",
+          "PrincipalBalance": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "ProjectLocation": null,
+          "ProjectValue": null,
+          "ProlongationCounter": null,
+          "PurposeOfFinancing": "OtherConsumerCredit",
+          "RealEndDate": "11/14/17 12:00:00 AM",
+          "RelatedSubjectsList": "",
+          "RestructuredCount": null,
+          "RestructuringDate": null,
+          "RestructuringReason": "NotSpecified",
+          "RoleOfClient": "MainDebtor",
+          "StartDate": "5/11/17 12:00:00 AM",
+          "SyndicatedLoan": "No",
+          "TotalAmount": {
+            "Currency": "IDR",
+            "LocalValue": "7000000.00",
+            "Value": "7000000.00"
+          },
+          "TotalFacilityAmount": {
+            "Currency": "IDR",
+            "LocalValue": "7000000.00",
+            "Value": "7000000.00"
+          },
+          "TotalTakenAmount": {
+            "Currency": "IDR",
+            "LocalValue": "7000000.00",
+            "Value": "7000000.00"
+          },
+          "WorstPastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "WorstPastDueDays": "0"
+        }
+      ]
+    }
+  },
+  "ContractSummary": {
+    "Debtor": {
+      "ClosedContracts": "1",
+      "OpenContracts": "3",
+      "OutstandingAmountSum": {
+        "Currency": "IDR",
+        "LocalValue": "360264300.02",
+        "Value": "360264300.02"
+      },
+      "PastDueAmountSum": {
+        "Currency": "IDR",
+        "LocalValue": "0.00",
+        "Value": "0.00"
+      },
+      "TotalAmountSum": {
+        "Currency": "IDR",
+        "LocalValue": "390000000.00",
+        "Value": "390000000.00"
+      }
+    },
+    "Guarantor": {
+      "ClosedContracts": "0",
+      "OpenContracts": "0",
+      "OutstandingAmountSum": {},
+      "PastDueAmountSum": {},
+      "TotalAmountSum": {}
+    },
+    "Overall": {
+      "LastDelinquency90PlusDays": {},
+      "WorstPastDueAmount": {
+        "Currency": "IDR",
+        "LocalValue": "0",
+        "Value": "0"
+      },
+      "WorstPastDueDays": "0"
+    },
+    "PaymentCalendarList": {
+      "PaymentCalendar": [
+        {
+          "ContractsSubmitted": "0",
+          "Date": "10/31/18 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        },
+        {
+          "ContractsSubmitted": "0",
+          "Date": "9/30/18 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        },
+        {
+          "ContractsSubmitted": "0",
+          "Date": "8/31/18 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        },
+        {
+          "ContractsSubmitted": "0",
+          "Date": "7/31/18 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        },
+        {
+          "ContractsSubmitted": "0",
+          "Date": "6/30/18 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        },
+        {
+          "ContractsSubmitted": "0",
+          "Date": "5/31/18 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        },
+        {
+          "ContractsSubmitted": "3",
+          "Date": "4/30/18 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "360264300.02",
+            "Value": "360264300.02"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "3",
+          "Date": "3/31/18 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "362579214.99",
+            "Value": "362579214.99"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "3",
+          "Date": "2/28/18 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "364876697.84",
+            "Value": "364876697.84"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "3",
+          "Date": "1/31/18 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "367163343.50",
+            "Value": "367163343.50"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "3",
+          "Date": "12/31/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "369439205.57",
+            "Value": "369439205.57"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "4",
+          "Date": "11/30/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "372119449.67",
+            "Value": "372119449.67"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "4",
+          "Date": "10/31/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "375563186.52",
+            "Value": "375563186.52"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "4",
+          "Date": "9/30/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "379396429.41",
+            "Value": "379396429.41"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "4",
+          "Date": "8/31/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "382797678.35",
+            "Value": "382797678.35"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "4",
+          "Date": "7/31/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "386178740.72",
+            "Value": "386178740.72"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "2",
+          "Date": "6/30/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "24867326.32",
+            "Value": "24867326.32"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "2",
+          "Date": "5/31/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "26506606.02",
+            "Value": "26506606.02"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "1",
+          "Date": "4/30/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NoNegativeStatus",
+          "OutstandingAmount": {
+            "Currency": "IDR",
+            "LocalValue": "20000000.00",
+            "Value": "20000000.00"
+          },
+          "PastDueAmount": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "PastDueDays": "0"
+        },
+        {
+          "ContractsSubmitted": "0",
+          "Date": "3/31/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        },
+        {
+          "ContractsSubmitted": "0",
+          "Date": "2/28/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        },
+        {
+          "ContractsSubmitted": "0",
+          "Date": "1/31/17 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        },
+        {
+          "ContractsSubmitted": "0",
+          "Date": "12/31/16 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        },
+        {
+          "ContractsSubmitted": "0",
+          "Date": "11/30/16 12:00:00 AM",
+          "NegativeStatusOfContract": "NotSpecified",
+          "OutstandingAmount": null,
+          "PastDueAmount": null,
+          "PastDueDays": null
+        }
+      ]
+    },
+    "SectorInfoList": {
+      "SectorInfo": [
+        {
+          "DebtorClosedContracts": "0",
+          "DebtorOpenContracts": "2",
+          "DebtorOutstandingAmountSum": {
+            "Currency": "IDR",
+            "LocalValue": "346407018.54",
+            "Value": "346407018.54"
+          },
+          "DebtorPastDueAmountSum": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "DebtorTotalAmountSum": {
+            "Currency": "IDR",
+            "LocalValue": "370000000.00",
+            "Value": "370000000.00"
+          },
+          "GuarantorClosedContracts": "0",
+          "GuarantorOpenContracts": "0",
+          "GuarantorOutstandingAmountSum": null,
+          "GuarantorPastDueAmountSum": null,
+          "GuarantorTotalAmountSum": null,
+          "Sector": "Banks"
+        },
+        {
+          "DebtorClosedContracts": "0",
+          "DebtorOpenContracts": "1",
+          "DebtorOutstandingAmountSum": {
+            "Currency": "IDR",
+            "LocalValue": "13857281.48",
+            "Value": "13857281.48"
+          },
+          "DebtorPastDueAmountSum": {
+            "Currency": "IDR",
+            "LocalValue": "0.00",
+            "Value": "0.00"
+          },
+          "DebtorTotalAmountSum": {
+            "Currency": "IDR",
+            "LocalValue": "20000000.00",
+            "Value": "20000000.00"
+          },
+          "GuarantorClosedContracts": "0",
+          "GuarantorOpenContracts": "0",
+          "GuarantorOutstandingAmountSum": null,
+          "GuarantorPastDueAmountSum": null,
+          "GuarantorTotalAmountSum": null,
+          "Sector": "NonBankingFinancialInstitutions"
+        },
+        {
+          "DebtorClosedContracts": "1",
+          "DebtorOpenContracts": "0",
+          "DebtorOutstandingAmountSum": null,
+          "DebtorPastDueAmountSum": null,
+          "DebtorTotalAmountSum": null,
+          "GuarantorClosedContracts": "0",
+          "GuarantorOpenContracts": "0",
+          "GuarantorOutstandingAmountSum": null,
+          "GuarantorPastDueAmountSum": null,
+          "GuarantorTotalAmountSum": null,
+          "Sector": "Pawnshop"
+        }
+      ]
+    }
+  },
+  "CurrentRelations": {
+    "ContractRelationList": {
+      "ContractRelation": {
+        "Contact": {
+          "FixedLine": {},
+          "MobilePhone": "12321421421"
+        },
+        "CreditinfoId": "40028923",
+        "FullName": "Firman Hutapea",
+        "IDNumber": "337020920090920001",
+        "IDNumberType": "KTP",
+        "MainAddress": {
+          "AddressLine": "Jalan Condet Raya no 11 Jakarta",
+          "City": {},
+          "Country": "NotSpecified",
+          "District": {},
+          "Parish": {},
+          "PostalCode": {},
+          "Street": {}
+        },
+        "RoleOfCustomer": "Guarantor",
+        "SubjectType": "Individual",
+        "ValidFrom": "4/15/18 12:00:00 AM"
+      }
+    },
+    "InvolvementList": "",
+    "RelatedPartyList": {
+      "RelatedParty": [
+        {
+          "Contact": {
+            "FixedLine": {},
+            "MobilePhone": {}
+          },
+          "CreditinfoId": "0",
+          "FullName": "Silfie A",
+          "Gender": "Female",
+          "IDNumber": "337082099018001",
+          "IDNumberType": "KTP",
+          "LTV": null,
+          "MainAddress": {
+            "AddressLine": "Jalan Pertanian 2 Bandung",
+            "City": {},
+            "Country": "NotSpecified",
+            "District": {},
+            "Parish": {},
+            "PostalCode": {},
+            "Street": {}
+          },
+          "OwnershipShare": "2000000.00",
+          "Procura": {
+            "ProcuraRecordNumber": {},
+            "RegistrationDate": {},
+            "TerminationDate": {}
+          },
+          "SubjectStatus": "Active",
+          "SubjectType": "Individual",
+          "TypeOfRelation": "OwnerCEO",
+          "ValidFrom": "4/15/18 12:00:00 AM"
+        },
+        {
+          "Contact": {
+            "FixedLine": {},
+            "MobilePhone": "08299092000910"
+          },
+          "CreditinfoId": "71612266",
+          "FullName": "Andy firmansah",
+          "Gender": "Male",
+          "IDNumber": "3114050501850036",
+          "IDNumberType": "KTP",
+          "LTV": null,
+          "MainAddress": {
+            "AddressLine": "Jl. Bangau",
+            "City": {},
+            "Country": "NotSpecified",
+            "District": {},
+            "Parish": {},
+            "PostalCode": {},
+            "Street": {}
+          },
+          "OwnershipShare": null,
+          "Procura": {
+            "ProcuraRecordNumber": {},
+            "RegistrationDate": {},
+            "TerminationDate": {}
+          },
+          "SubjectStatus": "NotSpecified",
+          "SubjectType": "Individual",
+          "TypeOfRelation": "CEO",
+          "ValidFrom": "4/15/18 12:00:00 AM"
+        },
+        {
+          "Contact": {
+            "FixedLine": {},
+            "MobilePhone": {}
+          },
+          "CreditinfoId": "0",
+          "FullName": "Dodi Sumarwan",
+          "Gender": "Male",
+          "IDNumber": "3957002305670003",
+          "IDNumberType": "KTP",
+          "LTV": "100.00",
+          "MainAddress": {
+            "AddressLine": "Jl. Bakung no. 31 rt 10/07 Medan",
+            "City": {},
+            "Country": "NotSpecified",
+            "District": {},
+            "Parish": {},
+            "PostalCode": {},
+            "Street": {}
+          },
+          "OwnershipShare": null,
+          "Procura": {
+            "ProcuraRecordNumber": {},
+            "RegistrationDate": {},
+            "TerminationDate": {}
+          },
+          "SubjectStatus": "NotSpecified",
+          "SubjectType": "Individual",
+          "TypeOfRelation": "Guarantor",
+          "ValidFrom": "4/30/18 12:00:00 AM"
+        }
+      ]
+    }
+  },
+  "Dashboard": {
+    "CIQ": {
+      "FraudAlerts": "0",
+      "FraudAlertsThirdParty": "0"
+    },
+    "Collaterals": {
+      "NumberOfCollaterals": "2",
+      "TotalNonCashCollateralValue": {
+        "Currency": "IDR",
+        "LocalValue": "0",
+        "Value": "0"
+      }
+    },
+    "Disputes": {
+      "ActiveContractDisputes": "0",
+      "FalseDisputes": "0",
+      "NumberOfCourtRegisteredDisputes": "0"
+    },
+    "Inquiries": {
+      "InquiriesForLast12Months": "17",
+      "SubscribersInLast12Months": "6"
+    },
+    "Involvements": {
+      "NumberOfActiveInvolvements": "0"
+    },
+    "OtherLiabilities": {
+      "NumberOfOpenAgreements": "0"
+    },
+    "PaymentsProfile": {
+      "NumberOfDifferentSubscribers": "4",
+      "PastDueAmountSum": {
+        "Currency": "IDR",
+        "LocalValue": "0.00",
+        "Value": "0.00"
+      },
+      "WorstPastDueDaysCurrent": "0",
+      "WorstPastDueDaysForLast12Months": "0"
+    },
+    "Relations": {
+      "NumberOfInvolvements": "0",
+      "NumberOfRelations": "3"
+    },
+    "Securities": {
+      "NumberOfActiveSecurities": "0"
+    }
+  },
+  "Disputes": {
+    "DisputeList": "",
+    "Summary": {
+      "NumberOfActiveDisputesContracts": "0",
+      "NumberOfActiveDisputesInCourt": "0",
+      "NumberOfActiveDisputesSubjectData": "0",
+      "NumberOfClosedDisputesContracts": "0",
+      "NumberOfClosedDisputesSubjectData": "0",
+      "NumberOfFalseDisputes": "0"
+    }
+  },
+  "Financials": {
+    "FinancialStatementList": ""
+  },
+  "Individual": {
+    "Contact": {
+      "Email": "andyfirmansyah@pefindo.com",
+      "FixedLine": {},
+      "MobilePhone": "08299092000910"
+    },
+    "General": {
+      "Alias": "Andy",
+      "Citizenship": "ID",
+      "ClassificationOfIndividual": "Individual",
+      "DateOfBirth": "1/5/85 12:00:00 AM",
+      "Education": "Bachelor",
+      "EmployerName": "PT Bineka",
+      "EmployerSector": "ID_0000",
+      "Employment": "Engineer",
+      "FullName": "Andy firmansah",
+      "FullNameLocal": "Andy firmansah",
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "MotherMaidenName": "Sainah S",
+      "PlaceOfBirth": "Medan",
+      "Residency": "Yes",
+      "SocialStatus": "Employed"
+    },
+    "Identifications": {
+      "KTP": "3114050501850036",
+      "NPWP": "2901928001901",
+      "PassportIssuerCountry": "ID",
+      "PassportNumber": "28909100901",
+      "PefindoId": "71612266"
+    },
+    "MainAddress": {
+      "AddressLine": "Jl. Bangau",
+      "City": {},
+      "Country": "NotSpecified",
+      "District": {},
+      "Parish": {},
+      "PostalCode": {},
+      "Street": {}
+    }
+  },
+  "Inquiries": {
+    "InquiryList": {
+      "Inquiry": [
+        {
+          "DateOfInquiry": "8/14/18 5:30:48 PM",
+          "Product": "WS Creditinfo Report Plus",
+          "Reason": "FulfilRegulationRequirements",
+          "Sector": "NonBankingFinancialInstitutions",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "5/23/18 11:25:37 AM",
+          "Product": "Quick Check",
+          "Reason": "ProvidingFacilities",
+          "Sector": "Banks",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "5/23/18 10:43:44 AM",
+          "Product": "Quick Check",
+          "Reason": "ProvidingFacilities",
+          "Sector": "Banks",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "5/23/18 10:23:52 AM",
+          "Product": "Quick Check",
+          "Reason": "ProvidingFacilities",
+          "Sector": "Banks",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "5/23/18 7:32:32 AM",
+          "Product": "Quick Check",
+          "Reason": "ProvidingFacilities",
+          "Sector": "Banks",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "4/29/18 10:10:25 PM",
+          "Product": "WS Creditinfo Report Plus",
+          "Reason": "ProvidingFacilities",
+          "Sector": "Pawnshop",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "4/27/18 2:43:27 AM",
+          "Product": "WS Creditinfo Report Plus",
+          "Reason": "ProvidingFacilities",
+          "Sector": "Pawnshop",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "4/26/18 6:34:13 PM",
+          "Product": "WS Creditinfo Report Plus",
+          "Reason": "ProvidingFacilities",
+          "Sector": "Pawnshop",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "4/25/18 9:42:03 PM",
+          "Product": "WS Creditinfo Report Plus",
+          "Reason": "ProvidingFacilities",
+          "Sector": "Pawnshop",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "4/16/18 9:32:28 AM",
+          "Product": "Quick Check",
+          "Reason": "ProvidingFacilities",
+          "Sector": "NonBankingFinancialInstitutions",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "4/15/18 4:44:59 PM",
+          "Product": "WS Creditinfo Report Plus",
+          "Reason": "ProvidingFacilities",
+          "Sector": "Pawnshop",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "3/13/18 3:42:45 PM",
+          "Product": "Quick Check",
+          "Reason": "ProvidingFacilities",
+          "Sector": "NonBankingFinancialInstitutions",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "1/12/18 3:33:23 PM",
+          "Product": "WS Creditinfo Report Plus",
+          "Reason": "FulfilRegulationRequirements",
+          "Sector": "NonBankingFinancialInstitutions",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "1/8/18 9:01:27 AM",
+          "Product": "WS Custom Report - Creditinfo Predictor",
+          "Reason": "FulfilRegulationRequirements",
+          "Sector": "NonBankingFinancialInstitutions",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "12/21/17 2:26:33 PM",
+          "Product": "WS Creditinfo Report Plus",
+          "Reason": "FulfilRegulationRequirements",
+          "Sector": "NonBankingFinancialInstitutions",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "12/18/17 8:38:00 AM",
+          "Product": "WS Creditinfo Report Plus",
+          "Reason": "FulfilRegulationRequirements",
+          "Sector": "NonBankingFinancialInstitutions",
+          "SubscriberInfo": ""
+        },
+        {
+          "DateOfInquiry": "11/20/17 2:13:22 PM",
+          "Product": "Quick Check",
+          "Reason": "AnotherReason",
+          "Sector": "NonBankingFinancialInstitutions",
+          "SubscriberInfo": ""
+        }
+      ]
+    },
+    "Summary": {
+      "NumberOfInquiriesLast12Months": "17",
+      "NumberOfInquiriesLast1Month": "0",
+      "NumberOfInquiriesLast24Months": "17",
+      "NumberOfInquiriesLast3Months": "1",
+      "NumberOfInquiriesLast6Months": "11"
+    }
+  },
+  "Involvements": {
+    "InvolvementList": "",
+    "Summary": {
+      "NumberOfActiveInvolvements": "0",
+      "NumberOfPastInvolvements": "0",
+      "TotalAmountOfActiveInvolvements": {
+        "Currency": "IDR",
+        "LocalValue": "0",
+        "Value": "0"
+      }
+    }
+  },
+  "OtherLiabilities": {
+    "OtherLiabilityList": "",
+    "Summary": {
+      "NumberOfClosedAgreements": "0",
+      "NumberOfOpenAgreements": "0",
+      "TotalMarketValue": {
+        "Currency": "IDR",
+        "LocalValue": "0",
+        "Value": "0"
+      },
+      "TotalPrincipalArrears": {
+        "Currency": "IDR",
+        "LocalValue": "0",
+        "Value": "0"
+      }
+    }
+  },
+  "Parameters": {
+    "Consent": "true",
+    "IDNumber": "71612266",
+    "IDNumberType": "PefindoId",
+    "InquiryReason": "ProvidingFacilities",
+    "InquiryReasonText": "",
+    "ReportDate": "10/1/18 12:00:00 AM",
+    "Sections": {
+      "string": "PEFINDOScore"
+    },
+    "SubjectType": "Individual"
+  },
+  "ReportInfo": {
+    "Created": "3/18/19 7:54:28 PM",
+    "ReferenceNumber": "2177757-71612266",
+    "ReportStatus": "ReportGenerated",
+    "RequestedBy": "heri admin",
+    "Version": "553"
+  },
+  "Securities": {
+    "SecurityList": "",
+    "Summary": {
+      "NumberOfActiveSecurities": "0",
+      "NumberOfPastSecurities": "0",
+      "TotalMarketValue": {
+        "Currency": "IDR",
+        "LocalValue": "0",
+        "Value": "0"
+      },
+      "TotalPrincipalArrears": {
+        "Currency": "IDR",
+        "LocalValue": "0",
+        "Value": "0"
+      }
+    }
+  },
+  "SubjectInfoHistory": {
+    "AddressList": {
+      "Address": [
+        {
+          "Item": "MainAddress",
+          "Subscriber": "B02",
+          "ValidFrom": "7/31/17 12:00:00 AM",
+          "ValidTo": "4/15/18 12:00:00 AM",
+          "Value": "Jl. Bangau"
+        },
+        {
+          "Item": "MainAddressLine",
+          "Subscriber": "B02",
+          "ValidFrom": "7/31/17 12:00:00 AM",
+          "ValidTo": "4/15/18 12:00:00 AM",
+          "Value": "Jl. Bangau"
+        }
+      ]
+    },
+    "ContactList": {
+      "Contact": {
+        "Item": "MobilePhone",
+        "Subscriber": "B02",
+        "ValidFrom": "7/31/17 12:00:00 AM",
+        "ValidTo": "4/15/18 12:00:00 AM",
+        "Value": "0879417193"
+      }
+    },
+    "GeneralList": {
+      "General": {
+        "Item": "MothersMaidenName",
+        "Subscriber": "B02",
+        "ValidFrom": "7/31/17 12:00:00 AM",
+        "ValidTo": "4/15/18 12:00:00 AM",
+        "Value": "Sainah"
+      }
+    },
+    "IdentificationsList": {
+      "Identifications": {
+        "Item": "TaxNumber",
+        "Subscriber": "B02",
+        "ValidFrom": "7/31/17 12:00:00 AM",
+        "ValidTo": "4/15/18 12:00:00 AM",
+        "Value": "24798106541000"
+      }
+    }
+  },
+  "DemographicData": {
+    "ApplicationNumber": "Z000010204",
+    "GUID": "8aaf4c3f-67e0-45de-b802-2ce1e3159e23",
+    "CIF": "160678",
+    "CustomerType": "NTB",
+    "MarketingCode": "AAP9999790ETB0",
+    "KTP": "3671016106650004",
+    "Name": "LILI WIJAYA ",
+    "AgeInMonths": 425,
+    "Gender": "F",
+    "MaritalStatus": "A",
+    "NoOfChildren": "0",
+    "HomeOwnership": "H01",
+    "Income": "1000000000",
+    "LengthOfWorkYears": "4",
+    "OccupationType": "PBUM",
+    "EmploymentStatus": "A",
+    "JobCode": "JC4",
+    "NatureOfBusiness": "5",
+    "IDNumber": "3671016106650004",
+    "AddressKTP": "PERUM BCE BLOK.B-3 NO.16",
+    "KTPZipcode": "16913",
+    "AddressDomisili": "RSB BLOK K II/2",
+    "DomisiliZipcode": "14440",
+    "OfficeAddress": "JL SEMARANG PURWODADI NO 92 ",
+    "OfficeZipcode": "11460",
+    "Education": "E",
+    "IncomingDate": "2020-11-23T15:01:40.058661",
+    "DateOfBirth": "1985-06-09T00:00:00"
+  }
+}
